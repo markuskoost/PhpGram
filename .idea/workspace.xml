@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50e61f14-00db-41d6-94b3-50685a8547a3" name="Default Changelist" comment="Generated authentication" />
+    <list default="true" id="50e61f14-00db-41d6-94b3-50685a8547a3" name="Default Changelist" comment="CSS and JS for auth">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="3ddb8331-e7e9-4e95-a9a7-fd0307b60b50" name="Generated authentication" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -150,11 +153,13 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="50e61f14-00db-41d6-94b3-50685a8547a3" name="Default Changelist" comment="" />
+      <changelist id="3ddb8331-e7e9-4e95-a9a7-fd0307b60b50" name="Generated authentication" comment="" />
       <created>1616353456927</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616353456927</updated>
       <workItem from="1616353459282" duration="1511000" />
+      <workItem from="1616355110818" duration="1506000" />
     </task>
     <task id="LOCAL-00001" summary="Procfile for Heroku">
       <created>1616353791631</created>
@@ -163,7 +168,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616353791631</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Generated authentication">
+      <created>1616355271192</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616355271192</updated>
+    </task>
+    <task id="LOCAL-00003" summary="CSS and JS for auth">
+      <created>1616355931153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616355931153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,10 +198,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Procfile for Heroku" />
-    <option name="LAST_COMMIT_MESSAGE" value="Procfile for Heroku" />
+    <MESSAGE value="Generated authentication" />
+    <MESSAGE value="CSS and JS for auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS and JS for auth" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
