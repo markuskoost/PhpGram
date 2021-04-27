@@ -20,6 +20,9 @@
                         </a>
                     </span> {{ $post->caption }}
                     </p>
+                    <div>
+                        <p>{{ $post->created_at->diffForHumans() }}</p>
+                    </div>
                 </div>
             </div>
     </div>
